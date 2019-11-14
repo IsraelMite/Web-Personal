@@ -28,7 +28,7 @@
                     <p>Edad: 20 años</p>		
                     <p>Fecha de nacimiento: 30 de julio del 1999</p>
                     <p>País de origen: Ecuador</p> 
-                    <p>Github: IsraelMite/p>   
+                    <p>Github: IsraelMite</p>   
                     <p>StackOverflow: Israel Mite</p>
                 </div>
             </div>
@@ -49,7 +49,7 @@
         </div>
         <h1>Comentario Personal</h1> 				
             <div class="split">
-                <p>Lo expuesto es algo muy básico debido a que no poseo los conocimientos sucifientes para la elavoración de algo más complejo.</p>
+                <p>LLo comentado en la pagina es algo superficial, no poseo mas conocimientos aparte de lo mencionado.</p>
                 
         </div>
 
