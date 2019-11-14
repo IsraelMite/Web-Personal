@@ -30,8 +30,7 @@
                     <p>País de origen: Ecuador</p> 
                     <p>Github: IsraelMite</p>   
                     <p>StackOverflow: Israel Mite</p>
-                </div>
-            </div>
+               
             <h1>Competencias</h1> 				
             <div class="split">
                 <h2>Conocimientos</h2>			
@@ -59,5 +58,4 @@
         </div>
     </footer>
 
-</body>
-</html>
+
