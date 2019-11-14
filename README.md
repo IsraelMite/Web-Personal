@@ -1,4 +1,3 @@
-# Web-Personal
 # Pagina-personal
 <html lang="en">
 <head>
@@ -29,13 +28,8 @@
                     <p>Fecha de nacimiento: 30 de julio del 1999</p>
                     <p>País de origen: Ecuador</p> 
                     <p>Github: IsraelMite</p>   
-                    <p>StackOverflow: Israel Mite</p>
-               
-            <h1>Competencias</h1> 				
-            <div class="split">
-                <h2>Conocimientos</h2>			
-                <div class="split">							
-                    <p> C++: Amateur</p>	                   		
+                    <p>StackOverflow: Israel Mite</p>  
+                            		
                 </div>
                 <div class="split">
                     <h3>Frameworks</h3>
@@ -48,7 +42,7 @@
         </div>
         <h1>Comentario Personal</h1> 				
             <div class="split">
-                <p>LLo comentado en la pagina es algo superficial, no poseo mas conocimientos aparte de lo mencionado.</p>
+                <p>Lo mencionado en el sitio web es algo superficial, no poseo mas conocimientos aparte de los mencionados.</p>
                 
         </div>
 
@@ -58,4 +52,6 @@
         </div>
     </footer>
 
+</body>
+</html>
 
